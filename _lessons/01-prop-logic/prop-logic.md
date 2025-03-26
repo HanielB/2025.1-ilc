@@ -81,7 +81,7 @@ if __name__ == '__main__':
 
     # Testar equivalencia de ¬(p ∨ (¬p ∧ q)) e ¬p ∧ ¬q
     s.add(
-        Not(Or(p, (And(Not(p), q)))) != And(Not(p), q))
+        Not(Or(p, (And(Not(p), q)))) != And(Not(p), Not(q)))
 
     print(s.check())
 ```
