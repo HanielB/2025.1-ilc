@@ -8,7 +8,7 @@ title: Lógica de predicados
 
 ## Leituras
 
-- [Notas de aula]({{ site.baseurl }}{% link _lessons/03-fol/fol.pdf %}).
+- [Notas de aula]({{ site.baseurl }}{% link _lessons/02-fol/fol.pdf %}).
 - Do livro texto:
   - Predicados e quantificadores: capítulo 1.3
   - Quantificadores aninhados: capítulo 1.4
