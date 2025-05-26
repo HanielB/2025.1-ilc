@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recursão
+title: Recursão e Indução Estrutural
 ---
 
 # Definições recursivas
