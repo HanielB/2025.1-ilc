@@ -21,7 +21,7 @@ title: Tópico 05 - Indução e Recursão
   : [Slides]({{ site.baseurl }}{% link _lessons/05-induction/recursion.pdf %})
 
 28 Mai
-: Revisão
+: Aula de dúvidas
 
 31 Mai
 : Prova 2
